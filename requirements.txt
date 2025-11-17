@@ -1,3 +1,6 @@
+# Force CPU versions of PyTorch for Streamlit Cloud
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 torch
 torchvision
 
