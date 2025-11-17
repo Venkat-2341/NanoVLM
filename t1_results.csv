@@ -1,0 +1,30 @@
+image,expected,predicted,status
+Thermal_37.png,"Nose, Forehead, Chest","Forehead, Chest",partial
+Thermal_86.png,"Nose, Forehead, Chest","Nose, Forehead, Chest",exact
+Thermal_159.png,"Forehead, Chest","Forehead, Chest",exact
+Thermal_206.png,"Nose, Chest, Forehead","Nose, Forehead, Chest",partial
+Thermal_183.png,"Nose, Chest, Forehead","Forehead, Chest",partial
+Thermal_55.png,"Forehead, Nose","Forehead, Nose",exact
+Thermal_169.png,"Forehead, Nose","Forehead, Chest",partial
+Thermal_120.png,"Nose, Chest, Forehead","Nose, Forehead, Chest",partial
+Thermal_128.png,"Nose, Forehead, Chest","Nose, Forehead, Chest",exact
+Thermal_66.png,"Forehead, Nose, Chest","Forehead, Chest",partial
+Thermal_188.png,"Forehead, Chest","Forehead, Chest",exact
+Thermal_60.png,"Forehead, Chest, Nose","Forehead, Chest",partial
+Thermal_4.png,"Nose, Forehead","Forehead, Chest",partial
+Thermal_76.png,"Forehead, Nose","Forehead, Chest",partial
+Thermal_113.png,"Nose, Forehead, Chest","Nose, Forehead, Chest",exact
+Thermal_195.png,"Chest, Forehead",Chest,partial
+Thermal_13.png,"Forehead, Nose, Chest","Forehead, Nose",partial
+Thermal_114.png,"Nose, Forehead, Chest","Nose, Forehead, Chest",exact
+Thermal_210.png,"Nose, Forehead, Chest","Forehead, Chest",partial
+Thermal_107.png,"Nose, Forehead, Chest","Nose, Forehead, Chest",exact
+Thermal_111.png,"Nose, Forehead, Chest","Nose, Forehead, Chest",exact
+Thermal_165.png,"Nose, Forehead","Forehead, Chest",partial
+Thermal_44.png,"Chest, Nose, Forehead","Nose, Forehead, Chest",partial
+Thermal_121.png,"Nose, Chest, Forehead","Nose, Forehead",partial
+Thermal_68.png,"Forehead, Nose, Chest","Forehead, Chest",partial
+Thermal_170.png,"Forehead, Chest","Forehead, Chest",exact
+Thermal_184.png,"Nose, Forehead, Chest","Forehead, Chest",partial
+Thermal_182.png,"Nose, Forehead","Forehead, Chest",partial
+Thermal_87.png,"Nose, Forehead, Chest","Forehead, Chest",partial
